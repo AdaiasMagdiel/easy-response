@@ -3,6 +3,8 @@
     "description": "A PHP class designed to streamline HTTP responses, making it easier to handle requests and deliver appropriate content.",
     "type": "library",
     "license": "MIT",
+    "keywords": ["web", "response", "headers"],
+    "homepage": "https://github.com/AdaiasMagdiel/easy-response",
     "autoload": {
         "psr-4": {
             "AdaiasMagdiel\\EasyResponse\\": "src/"
