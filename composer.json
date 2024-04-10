@@ -1,0 +1,26 @@
+{
+    "name": "adaiasmagdiel/easy-response",
+    "description": "A PHP class designed to streamline HTTP responses, making it easier to handle requests and deliver appropriate content.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AdaiasMagdiel\\EasyResponse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adaías Magdiel",
+            "email": "eu@adaiasmagdiel.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "pestphp/pest": "^2.34"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
