@@ -1,5 +1,10 @@
 # Easy Response
 
+[![Latest Stable Version](http://poser.pugx.org/adaiasmagdiel/easy-response/v)](https://packagist.org/packages/adaiasmagdiel/easy-response)
+[![Total Downloads](http://poser.pugx.org/adaiasmagdiel/easy-response/downloads)](https://packagist.org/packages/adaiasmagdiel/easy-response)
+[![License](http://poser.pugx.org/adaiasmagdiel/easy-response/license)](https://packagist.org/packages/adaiasmagdiel/easy-response)
+[![PHP Version Require](http://poser.pugx.org/adaiasmagdiel/easy-response/require/php)](https://packagist.org/packages/adaiasmagdiel/easy-response)
+
 Easy Response is a PHP library designed to streamline HTTP responses, making it easier to handle requests and deliver appropriate content. This library provides a simple and intuitive interface for creating and sending HTTP responses, including HTML, JSON, and redirects.
 
 ## Table of Contents
